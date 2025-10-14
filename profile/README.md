@@ -8,21 +8,23 @@
 
 Frontend Mentor provides:
 
-- **Real-world projects** with professional designs in Figma
-- **Frontend & full-stack challenges** ranging from newbie to advanced
-- **Design-to-code practice** with all design assets and style guides included
-- **Community feedback** from thousands of developers worldwide
-- **Portfolio-worthy projects** to showcase your skills
+- **120+ professional design-to-code challenges** across 5 skill levels, from HTML/CSS basics to full-stack applications
+- **Portfolio projects that get you hired** with professional designs that consistently impress recruiters and demonstrate real-world capabilities
+- **AI-enhanced feedback** that spots 3x more improvement opportunities to accelerate your growth on every submission
+- **Master professional workflows** with Figma design files providing exact specs (colors, spacing, fonts) just like pro developers use
+- **Practice with AI development tools** like Cursor, GitHub Copilot, and ChatGPT to practice modern coding workflows
+- **Supportive community of 1M+ developers** for code reviews, career advice, and mentorship to beat imposter syndrome
 
 ### Frontend Mentor Pro
 
 Pro membership unlocks premium features including:
 
-- AI-powered code feedback on every solution
-- Access to all premium challenges
-- Figma design files for all challenges
-- Private solutions
-- And more
+- **AI-enhanced feedback on every solution** that catches 3x more issues across accessibility, code quality, and structure with explanations on how to fix them
+- **50+ premium portfolio-ready projects** from landing pages to full web apps that mirror real client work and impress recruiters
+- **Professional Figma design files** with exact specs (colors, spacing, fonts) to master the design-to-code workflow pros use
+- **Private solutions** to control what you showcase and hide work you're not ready to share
+- **Unlimited solution screenshots** to perfect your submissions and match designs without limits
+- **Instant access to community solutions** to learn new techniques and get unstuck without submitting your own first
 
 [Learn more about Pro →](https://www.frontendmentor.io/pro)
 
