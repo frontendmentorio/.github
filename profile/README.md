@@ -62,10 +62,11 @@ Hire juniors who have already proven their passion, skills, and drive.
 
 Connect with thousands of other developers in our [Discord community](https://www.frontendmentor.io/community):
 
-- Get feedback on your solutions
-- Share knowledge and learn from others
-- Collaborate on projects
-- Network with developers worldwide
+
+- **Get help when stuck** with questions and advice from supportive, knowledgeable members
+- **Share projects for feedback** to get code reviews and improve with each challenge
+- **Collaborate on challenges** by finding developers to pair up and work together
+- **Stay connected** with thousands discussing code, sharing resources, and getting updates on new challenges
 
 ---
 
