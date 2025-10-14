@@ -28,12 +28,14 @@ Pro membership unlocks premium features including:
 
 ## 👥 Frontend Mentor for Teams
 
-Help your development team level up together by building projects. Teams get:
+Help your development team level up together by building projects. Teams benefit from:
 
-- Pro access for all team members
-- Dedicated workspace for your organization
-- Challenge and learning path assignment
-- Unified billing for your whole team
+- **120+ industry-standard projects** with professional Figma designs, style guides, and responsive layouts for all skill levels
+- **Project-based learning** that accelerates developer growth faster than traditional tutorials through hands-on practice
+- **Access to 1M+ developer community** for feedback, support, and mentorship
+- **Simple team management** with project/path assignment, flexible seat management, and single annual invoice
+- **Team branding visibility** across the platform to attract talent and build brand awareness
+- **Private solutions** for team members to work confidentially
 
 Perfect for engineering teams, bootcamps, and educational institutions.
 
@@ -43,9 +45,12 @@ Perfect for engineering teams, bootcamps, and educational institutions.
 
 Hire from a pool of the most committed and skilled developers in the Frontend Mentor community:
 
-- Find ideal fit candidates in minutes with search
-- Evaluate projects upfront before sending a message
-- Message candidates directly
+- **Project-proven talent** with portfolios of real-world projects to review code quality, live demos, and technical capabilities before first contact
+- **Advanced candidate search** to filter by skills, experience level, location, and salary expectations for fast, precise matching
+- **Self-motivated developers** from the largest project-based learning community who are proactive, passionate, and continuously improving
+- **Direct messaging** to promising candidates through the platform to quickly move them into your interview process
+- **Reduced hiring overhead** by bypassing resume screening and focusing only on developers who meet your exact criteria
+- **Cost-effective hiring** of high-growth-potential early-career developers with proven skills at more affordable rates
 
 Hire juniors who have already proven their passion, skills, and drive.
 
